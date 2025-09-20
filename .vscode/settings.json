@@ -54,7 +54,7 @@
         "optional": "cpp"
     },
     "code-runner.executorMap": {
-        "cpp": "cd $dir && cl /EHsc /nologo $fileName hypotenunse.cpp /Fe:build\\$fileNameWithoutExt.exe && .\\build\\$fileNameWithoutExt.exe"
+        "cpp": "cd $dir && cls && cl /EHsc /nologo \"$fileName\" /Fe:build\\$fileNameWithoutExt.exe && .\\build\\$fileNameWithoutExt.exe"
     },
     "code-runner.runInTerminal": true
 }
