@@ -6,8 +6,8 @@ This is the repo with all my first c++ files and documentation.
 
 ## Notes
 
-(ascii table)[https://github.com/SuperNinjaCat5/first_cpp_projects_repo/blob/main/ascii_table.png]
+[ascii table](https://github.com/SuperNinjaCat5/first_cpp_projects_repo/blob/main/ascii_table.png)
 
-(decimal to binary image)[https://github.com/SuperNinjaCat5/first_cpp_projects_repo/blob/main/decimal_to_binary.png]
+[decimal to binary image](https://github.com/SuperNinjaCat5/first_cpp_projects_repo/blob/main/decimal_to_binary.png)
 
-(tutorial video)[https://www.youtube.com/watch?v=-TkoO8Z07hI]
+[tutorial video](https://www.youtube.com/watch?v=-TkoO8Z07hI)
